@@ -1,0 +1,248 @@
+[
+ {
+  "tender_id": "2026_ITBP_925996_1",
+  "file": "data/pdfs/synthetic/2026_ITBP_925996_1/NIT_2026_ITBP_925996_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_IISRB_925278_1",
+  "file": "data/pdfs/synthetic/2026_IISRB_925278_1/NIT_2026_IISRB_925278_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_DDA_928070_1",
+  "file": "data/pdfs/synthetic/2026_DDA_928070_1/NIT_2026_DDA_928070_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_DDA_928091_1",
+  "file": "data/pdfs/synthetic/2026_DDA_928091_1/NIT_2026_DDA_928091_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_NHPC_923072_1",
+  "file": "data/pdfs/synthetic/2026_NHPC_923072_1/NIT_2026_NHPC_923072_1.pdf",
+  "pages": 4,
+  "scanned_pages": [
+   2
+  ],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_DDA_927844_1",
+  "file": "data/pdfs/synthetic/2026_DDA_927844_1/NIT_2026_DDA_927844_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_MoS_925896_1",
+  "file": "data/pdfs/synthetic/2026_MoS_925896_1/NIT_2026_MoS_925896_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_NFC_928639_1",
+  "file": "data/pdfs/synthetic/2026_NFC_928639_1/NIT_2026_NFC_928639_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_CWPRS_928318_1",
+  "file": "data/pdfs/synthetic/2026_CWPRS_928318_1/NIT_2026_CWPRS_928318_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_NHIDC_924033_1",
+  "file": "data/pdfs/synthetic/2026_NHIDC_924033_1/NIT_2026_NHIDC_924033_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_MoRTH_926969_1",
+  "file": "data/pdfs/synthetic/2026_MoRTH_926969_1/NIT_2026_MoRTH_926969_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_ALHW_927194_1",
+  "file": "data/pdfs/synthetic/2026_ALHW_927194_1/NIT_2026_ALHW_927194_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_PGIME_918563_1",
+  "file": "data/pdfs/synthetic/2026_PGIME_918563_1/NIT_2026_PGIME_918563_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_IITKG_925916_1",
+  "file": "data/pdfs/synthetic/2026_IITKG_925916_1/NIT_2026_IITKG_925916_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_PGIME_926596_1",
+  "file": "data/pdfs/synthetic/2026_PGIME_926596_1/NIT_2026_PGIME_926596_1.pdf",
+  "pages": 5,
+  "scanned_pages": [
+   2
+  ],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_KoPT_912075_1",
+  "file": "data/pdfs/synthetic/2026_KoPT_912075_1/NIT_2026_KoPT_912075_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_MoRTH_924874_1",
+  "file": "data/pdfs/synthetic/2026_MoRTH_924874_1/NIT_2026_MoRTH_924874_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_UoH_928328_1",
+  "file": "data/pdfs/synthetic/2026_UoH_928328_1/NIT_2026_UoH_928328_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_DMRC_928019_1",
+  "file": "data/pdfs/synthetic/2026_DMRC_928019_1/NIT_2026_DMRC_928019_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_DMRC_923233_1",
+  "file": "data/pdfs/synthetic/2026_DMRC_923233_1/NIT_2026_DMRC_923233_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_IIMS_926274_1",
+  "file": "data/pdfs/synthetic/2026_IIMS_926274_1/NIT_2026_IIMS_926274_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_THDC_925667_1",
+  "file": "data/pdfs/synthetic/2026_THDC_925667_1/NIT_2026_THDC_925667_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_IITBU_920536_1",
+  "file": "data/pdfs/synthetic/2026_IITBU_920536_1/NIT_2026_IITBU_920536_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_MoRTH_917387_1",
+  "file": "data/pdfs/synthetic/2026_MoRTH_917387_1/NIT_2026_MoRTH_917387_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_NHDC_923232_1",
+  "file": "data/pdfs/synthetic/2026_NHDC_923232_1/NIT_2026_NHDC_923232_1.pdf",
+  "pages": 4,
+  "scanned_pages": [
+   2
+  ],
+  "bilingual": false,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_VECC_928305_1",
+  "file": "data/pdfs/synthetic/2026_VECC_928305_1/NIT_2026_VECC_928305_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_IISRB_926436_1",
+  "file": "data/pdfs/synthetic/2026_IISRB_926436_1/NIT_2026_IISRB_926436_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_FACT_926881_1",
+  "file": "data/pdfs/synthetic/2026_FACT_926881_1/NIT_2026_FACT_926881_1.pdf",
+  "pages": 4,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "test"
+ },
+ {
+  "tender_id": "2026_DDA_928170_1",
+  "file": "data/pdfs/synthetic/2026_DDA_928170_1/NIT_2026_DDA_928170_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": true,
+  "split": "train"
+ },
+ {
+  "tender_id": "2026_DDA_927826_1",
+  "file": "data/pdfs/synthetic/2026_DDA_927826_1/NIT_2026_DDA_927826_1.pdf",
+  "pages": 5,
+  "scanned_pages": [],
+  "bilingual": false,
+  "split": "train"
+ }
+]

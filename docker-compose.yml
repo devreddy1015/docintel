@@ -1,0 +1,24 @@
+# DocIntel runs next to TenderLens and shares its Postgres (pgvector) and Elasticsearch,
+# using its own database ("docintel") and index ("docintel_chunks").
+# Start TenderLens first (`make up` in that repo), then `docker compose up -d` here.
+services:
+  api:
+    build: .
+    image: docintel:latest
+    environment:
+      DOCINTEL_DATABASE_URL: postgresql://tenderlens:${POSTGRES_PASSWORD:-tenderlens}@postgres:5432/docintel
+      DOCINTEL_ES_URL: http://elasticsearch:9200
+      DOCINTEL_TENDERLENS_URL: http://nginx
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+    volumes:
+      - ./data:/app/data
+    ports: ["127.0.0.1:8100:8100"]
+    networks:
+      tenderlens:
+        aliases: [docintel]   # TenderLens's nginx proxies /docintel/ to this name
+    restart: unless-stopped
+
+networks:
+  tenderlens:
+    name: tenderlens_default
+    external: true

@@ -1,0 +1,7 @@
+.venv
+**/__pycache__
+data/ocr
+data/models
+.env
+.pytest_cache
+.ruff_cache

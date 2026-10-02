@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.env
+data/ocr/
+data/models/
+data/pdfs/*
+!data/pdfs/README.md
+!data/pdfs/synthetic/
+.pytest_cache/
+.ruff_cache/
